@@ -1,0 +1,54 @@
+.locatorade_error {
+	clear:both;
+	padding:5px;
+	border:1px solid #ff0000;
+	background-color:#ffdcdc;
+	text-align:center;
+	font-weight:bold;
+}
+
+.locatorade_success {
+	clear:both;
+	padding:5px;
+	border:1px solid #019b1b;
+	background-color:#c1ffcb;
+	text-align:center;
+	font-weight:bold;
+}
+
+.locatorade_tweet {
+	clear:both;
+	padding-bottom:5px;
+	border-bottom:1px solid #ddd;
+	height:50px;
+}
+
+.locatorade_avatar {
+	float:left;
+}
+
+.locatorade_tweet_info {
+	float:left;
+	margin-left:10px;
+}
+
+.locatorade_user {
+	float:left;
+}
+
+.locatorade_time {
+	float:left;
+	margin-left:10px;
+	font-size:10px;
+	font-style:italic;
+	color:#bbb;
+}
+
+.locatorade_txt {
+	clear:both;
+	font-size:12px;
+}
+
+label.locatorade_req:after {
+	content: " * ";
+}

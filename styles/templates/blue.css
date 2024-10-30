@@ -1,0 +1,126 @@
+/* Search Widget */
+.widget_locatoradesearchwidget label {
+	display:block;
+	clear:both;
+	font-style:italic;
+	margin-bottom:5px;
+}
+.widget_locatoradesearchwidget input[type=text], .widget_locatoradesearchwidget select {
+	width:200px;
+	padding:5px;
+	border-radius:5px;
+	border:1px solid #242424;
+	margin-bottom:5px;
+}
+
+.widget_locatoradesearchwidget select {
+     Width:105px;
+}
+
+.widget_locatoradesearchwidget input[type=submit] {
+	padding:5px;
+	font-weight:bold;
+	border-radius:5px;
+	background-color:#242424;
+	border:1px solid #ccc;
+	color:#fff;
+	display:block;
+	clear:both;
+}
+
+/* Map page */
+#locatorade_map_wrapper, #locatorade_map_canvas {
+	width:100%;
+	height:294px;
+}
+
+#locatorade_map_canvas_fixed {
+	width:622px;
+	position:fixed;
+}
+
+.locatorade_frontend_location {
+	clear:both;
+	margin-top:20px;
+	width:96%;
+	padding:2%;
+}
+
+.locatorade_frontend_location:hover {
+	background-color:#eee;
+}
+	.locatorade_search_number {
+		float:left;
+		font-weight:bold;
+		font-size:18px;
+		color:#fff;
+		background-color:#005aff;
+		padding:5px;
+		border:2px solid #ccc;
+		width:20px;
+		height:20px;
+		text-align:center;
+	}
+	
+	.locatorade_location_information {
+		float:left;
+		margin-left:10px;
+		width:400px;
+	}
+		.locatorade_location_name {
+			clear:both;
+			font-weight:bold;
+		}
+		.locatorade_location_address {
+			float:left;
+		}
+			.locatorade_address1 {
+				
+			}
+			.locatorade_address2 {
+
+			}
+			.locatorade_address3 {
+				display:block;
+				clear:both;
+			}
+			.locatorade_city {
+
+			}
+			.locatorade_state {
+
+			}
+			.locatorade_zip_code {
+
+			}
+			.locatorade_contact {
+				clear:both;
+			}
+				.locatorade_phone {
+					display:block;
+					float:left;
+				}
+				.locatorade_fax {
+					display:block;
+					float:left;
+					margin-left:20px;
+				}
+		.locatorade_distance {
+			clear:both;
+			font-size:small;
+			font-style:italic;
+		}
+		.locatorade_business_hours {
+			display:block;
+			float:right;
+			width:100px;
+			text-align:right;
+		}
+		.locatorade_directions {
+			clear:both;
+			font-weight:bold;
+			font-size:small;
+		}
+.locatorade_clear {
+	clear:both;
+}

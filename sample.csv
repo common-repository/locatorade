@@ -1,0 +1,6 @@
+'name','address1','address2','city','state','zip_code','phone','fax','business_hours','tags'
+'My First Store Name', '1234 Apple Rd','Suite 400','New York City','NY','11040','6465555555','6465554444','24/7','Grocery, Organic'
+'My Second Store Name', '1234 Apple Rd','Suite 400','New York City','NY','11040','6465555555','6465554444','24/7','Butcher'
+'My Third Store Name', '1234 Apple Rd','Suite 400','New York City','NY','11040','6465555555','6465554444','24/7','Grocery'
+'My Fourth Store Name', '1234 Apple Rd','Suite 400','New York City','NY','11040','6465555555','6465554444','24/7','Restaurant'
+'My Fifth Store Name', '1234 Apple Rd','Suite 400','New York City','NY','11040','6465555555','6465554444','24/7','Grocery, Restaurant'
